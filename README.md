@@ -1,5 +1,5 @@
 # SendIt-App
 A Realtime Chat
 
-Try it :
+Live on Heroku:
 https://sendiit-app.herokuapp.com/
